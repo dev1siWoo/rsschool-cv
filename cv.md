@@ -3,7 +3,7 @@
 ## Contacts
 * Phone: +375 29 848-98-32
 * E-mail: sergeyolin068@gmail.com
-* GitHub: [https://github.com/dev1siWoo](адрес "dev1siWoo")
+* GitHub: [dev1siWoo](https://github.com/dev1siWoo)
 * Location: Brest, Belarus
 
 ## About Me
